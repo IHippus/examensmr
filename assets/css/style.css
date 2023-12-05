@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+}
+p{
+    background-color: aqua;
+    margin: 3px;
+    border-color: black;
+}
+p2{
+    background-color: aqua;
+    margin: 3px;
+    border-color: black;
+}
+p3{
+    background-color: aqua;
+    margin: 3px;
+    border-color: black;
+}
+video{
+    width:520px;  
+    height: 300px;
+}
